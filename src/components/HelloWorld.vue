@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name: 'About Page',
+    name: 'HelloWorld',
     props: {
         msg: String,
     },
